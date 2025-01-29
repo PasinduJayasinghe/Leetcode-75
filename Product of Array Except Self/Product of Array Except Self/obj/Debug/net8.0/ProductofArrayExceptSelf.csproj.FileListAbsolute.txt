@@ -1,0 +1,14 @@
+C:\Users\thisa\OneDrive\Desktop\My Projects\Leetcode 75\Product of Array Except Self\Product of Array Except Self\bin\Debug\net8.0\ProductofArrayExceptSelf.exe
+C:\Users\thisa\OneDrive\Desktop\My Projects\Leetcode 75\Product of Array Except Self\Product of Array Except Self\bin\Debug\net8.0\ProductofArrayExceptSelf.deps.json
+C:\Users\thisa\OneDrive\Desktop\My Projects\Leetcode 75\Product of Array Except Self\Product of Array Except Self\bin\Debug\net8.0\ProductofArrayExceptSelf.runtimeconfig.json
+C:\Users\thisa\OneDrive\Desktop\My Projects\Leetcode 75\Product of Array Except Self\Product of Array Except Self\bin\Debug\net8.0\ProductofArrayExceptSelf.dll
+C:\Users\thisa\OneDrive\Desktop\My Projects\Leetcode 75\Product of Array Except Self\Product of Array Except Self\bin\Debug\net8.0\ProductofArrayExceptSelf.pdb
+C:\Users\thisa\OneDrive\Desktop\My Projects\Leetcode 75\Product of Array Except Self\Product of Array Except Self\obj\Debug\net8.0\ProductofArrayExceptSelf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thisa\OneDrive\Desktop\My Projects\Leetcode 75\Product of Array Except Self\Product of Array Except Self\obj\Debug\net8.0\ProductofArrayExceptSelf.AssemblyInfoInputs.cache
+C:\Users\thisa\OneDrive\Desktop\My Projects\Leetcode 75\Product of Array Except Self\Product of Array Except Self\obj\Debug\net8.0\ProductofArrayExceptSelf.AssemblyInfo.cs
+C:\Users\thisa\OneDrive\Desktop\My Projects\Leetcode 75\Product of Array Except Self\Product of Array Except Self\obj\Debug\net8.0\ProductofArrayExceptSelf.csproj.CoreCompileInputs.cache
+C:\Users\thisa\OneDrive\Desktop\My Projects\Leetcode 75\Product of Array Except Self\Product of Array Except Self\obj\Debug\net8.0\ProductofArrayExceptSelf.dll
+C:\Users\thisa\OneDrive\Desktop\My Projects\Leetcode 75\Product of Array Except Self\Product of Array Except Self\obj\Debug\net8.0\refint\ProductofArrayExceptSelf.dll
+C:\Users\thisa\OneDrive\Desktop\My Projects\Leetcode 75\Product of Array Except Self\Product of Array Except Self\obj\Debug\net8.0\ProductofArrayExceptSelf.pdb
+C:\Users\thisa\OneDrive\Desktop\My Projects\Leetcode 75\Product of Array Except Self\Product of Array Except Self\obj\Debug\net8.0\ProductofArrayExceptSelf.genruntimeconfig.cache
+C:\Users\thisa\OneDrive\Desktop\My Projects\Leetcode 75\Product of Array Except Self\Product of Array Except Self\obj\Debug\net8.0\ref\ProductofArrayExceptSelf.dll
