@@ -1,0 +1,15 @@
+C:\Users\thisa\OneDrive\Desktop\My Projects\Leetcode 75\MaximumSubArray\MaximumSubArray\bin\Debug\net8.0\MaximumSubArray.exe
+C:\Users\thisa\OneDrive\Desktop\My Projects\Leetcode 75\MaximumSubArray\MaximumSubArray\bin\Debug\net8.0\MaximumSubArray.deps.json
+C:\Users\thisa\OneDrive\Desktop\My Projects\Leetcode 75\MaximumSubArray\MaximumSubArray\bin\Debug\net8.0\MaximumSubArray.runtimeconfig.json
+C:\Users\thisa\OneDrive\Desktop\My Projects\Leetcode 75\MaximumSubArray\MaximumSubArray\bin\Debug\net8.0\MaximumSubArray.dll
+C:\Users\thisa\OneDrive\Desktop\My Projects\Leetcode 75\MaximumSubArray\MaximumSubArray\bin\Debug\net8.0\MaximumSubArray.pdb
+C:\Users\thisa\OneDrive\Desktop\My Projects\Leetcode 75\MaximumSubArray\MaximumSubArray\obj\Debug\net8.0\MaximumSubArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thisa\OneDrive\Desktop\My Projects\Leetcode 75\MaximumSubArray\MaximumSubArray\obj\Debug\net8.0\MaximumSubArray.AssemblyInfoInputs.cache
+C:\Users\thisa\OneDrive\Desktop\My Projects\Leetcode 75\MaximumSubArray\MaximumSubArray\obj\Debug\net8.0\MaximumSubArray.AssemblyInfo.cs
+C:\Users\thisa\OneDrive\Desktop\My Projects\Leetcode 75\MaximumSubArray\MaximumSubArray\obj\Debug\net8.0\MaximumSubArray.csproj.CoreCompileInputs.cache
+C:\Users\thisa\OneDrive\Desktop\My Projects\Leetcode 75\MaximumSubArray\MaximumSubArray\obj\Debug\net8.0\MaximumSubArray.sourcelink.json
+C:\Users\thisa\OneDrive\Desktop\My Projects\Leetcode 75\MaximumSubArray\MaximumSubArray\obj\Debug\net8.0\MaximumSubArray.dll
+C:\Users\thisa\OneDrive\Desktop\My Projects\Leetcode 75\MaximumSubArray\MaximumSubArray\obj\Debug\net8.0\refint\MaximumSubArray.dll
+C:\Users\thisa\OneDrive\Desktop\My Projects\Leetcode 75\MaximumSubArray\MaximumSubArray\obj\Debug\net8.0\MaximumSubArray.pdb
+C:\Users\thisa\OneDrive\Desktop\My Projects\Leetcode 75\MaximumSubArray\MaximumSubArray\obj\Debug\net8.0\MaximumSubArray.genruntimeconfig.cache
+C:\Users\thisa\OneDrive\Desktop\My Projects\Leetcode 75\MaximumSubArray\MaximumSubArray\obj\Debug\net8.0\ref\MaximumSubArray.dll
